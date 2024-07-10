@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **BraedonM/BraedonM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Braedon McRae, and I'm a student in the Computer Science program at the University of the Fraser Valley.
+
+I'm an avid programmer, dedicated to learning as much as possible about the field of computer science.
+Always looking for new projects to work on.
+
+[github/BraedonM](https://www.github.com/BraedonM)
+
+[/in/BraedonM](https://www.linkedin.com/in/BraedonM)
