@@ -17,6 +17,8 @@ My name is Braedon McRae, and I'm a student in the Computer Science program at t
 I'm an avid programmer, dedicated to learning as much as possible about the field of computer science.
 Always looking for new projects to work on.
 
-[github/BraedonM](https://www.github.com/BraedonM)
+---
 
-[/in/BraedonM](https://www.linkedin.com/in/BraedonM)
+[GitHub](https://www.github.com/BraedonM) 
+
+[LinkedIn](https://www.linkedin.com/in/BraedonM)
