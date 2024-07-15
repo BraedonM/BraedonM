@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello! 👋
+### Hello!
 
-My name is Braedon McRae and I'm a software developer, born and raised in British Columbia, Canada.
+My name is Braedon McRae and I'm a 20-year-old software developer, born and raised in British Columbia, Canada.
 
 Passionate about machine learning and artificial intelligence,
 I'm motivated to learn and continue growing as a developer.
