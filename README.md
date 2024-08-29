@@ -18,11 +18,9 @@ If icon doesn't exist on simpleicons.org:
 
 ### Hello!
 
-My name is Braedon McRae and I'm a 20-year-old software developer, born and raised in British Columbia, Canada.
+My name is Braedon McRae.
 
-Passionate about machine learning and artificial intelligence,
-I'm motivated to learn and continue growing as a developer.
-Always looking for new opportunities to collaborate and learn from others in the field.
+I'm a 20-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
 
