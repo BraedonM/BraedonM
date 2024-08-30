@@ -24,9 +24,7 @@ I'm a 20-year-old software developer, born and raised in British Columbia, Canad
 
 ---
 
-Controls Software Designer Co-op at [Kinetics Drive Solutions Inc.](https://www.kineticsdrive.com/)
-
-Student at the [University of the Fraser Valley](https://www.ufv.ca/)
+BSc Student at the [University of the Fraser Valley](https://www.ufv.ca/)
 
 Major in Computing Science with a minor in Mathematics
 
