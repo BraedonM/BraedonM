@@ -18,8 +18,6 @@ If icon doesn't exist on simpleicons.org:
 
 ### Hello!
 
-My name is Braedon McRae.
-
 I'm a 21-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
