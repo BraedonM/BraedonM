@@ -20,7 +20,7 @@ If icon doesn't exist on simpleicons.org:
 
 My name is Braedon McRae.
 
-I'm a 20-year-old software developer, born and raised in British Columbia, Canada.
+I'm a 21-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
 
