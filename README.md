@@ -18,7 +18,7 @@ If icon doesn't exist on simpleicons.org:
 
 ### Hello!
 
-I'm a 21-year-old software developer, born and raised in British Columbia, Canada.
+I'm a 22-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
 
@@ -50,7 +50,6 @@ __Workflow__
 __Currently Learning__
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Arch](https://img.shields.io/badge/-Arch-000?&logo=archlinux)
 
 ---
 
@@ -59,3 +58,4 @@ __Currently Learning__
 <a href="https://www.linkedin.com/in/braedonm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:braedonmcrae98@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
+
