@@ -18,11 +18,11 @@ If icon doesn't exist on simpleicons.org:
 
 ### Hello!
 
-I'm a 22-year-old software developer, born and raised in British Columbia, Canada.
+I'm a <!-- AGE_START -->22<!-- AGE_END -->-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
 
-BSc Student at the [University of the Fraser Valley](https://www.ufv.ca/)
+BSc from [University of the Fraser Valley](https://www.ufv.ca/) class of 2026
 
 Major in Computing Science with a minor in Mathematics
 
@@ -54,7 +54,6 @@ __Currently Learning__
 ---
 
 <p>
-<a href="https://github.com/braedonm?tab=repositories" target="_blank"><img alt="Repos" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/braedonm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:braedonmcrae98@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
