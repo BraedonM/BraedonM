@@ -1,0 +1,34 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 17 10 *'  # Runs at midnight UTC
+  workflow_dispatch:        # Allows manual triggering
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update age in README
+        run: |
+          BIRTH_YEAR=2003
+          CURRENT_YEAR=$(date +%Y)
+          NEW_AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+
+          sed -i "s|<!-- AGE_START -->.*<!-- AGE_END -->|<!-- AGE_START -->${NEW_AGE}<!-- AGE_END -->|" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || (
+            git add README.md &&
+            git commit -m "Another trip around the sun completed" &&
+            git push
+          )
