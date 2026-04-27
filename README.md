@@ -17,8 +17,7 @@ If icon doesn't exist on simpleicons.org:
 -->
 
 <!-- AGE_START -->22<!-- AGE_END -->-year-old software developer, born and raised in British Columbia, Canada.
-
----
+# 
 
 BSc from [University of the Fraser Valley](https://www.ufv.ca/) class of 2026
 
