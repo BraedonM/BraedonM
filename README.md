@@ -16,9 +16,7 @@ If icon doesn't exist on simpleicons.org:
     ![NAME](https://img.shields.io/badge/-NAME-000?&logo=PASTE_HERE)
 -->
 
-### Hello!
-
-I'm a <!-- AGE_START -->22<!-- AGE_END -->-year-old software developer, born and raised in British Columbia, Canada.
+<!-- AGE_START -->22<!-- AGE_END -->-year-old software developer, born and raised in British Columbia, Canada.
 
 ---
 
